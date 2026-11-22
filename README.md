@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/david-namgung"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=e8e2d4" alt="LinkedIn" /></a>
 <a href="mailto:davidjoseph.namgung@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=e8e2d4" alt="Email" /></a>
 <a href="https://public.tableau.com/app/profile/david.namgung/vizzes"><img src="https://img.shields.io/badge/Tableau%20Public-1a1a1a?style=flat-square&logo=tableau&logoColor=e8e2d4" alt="Tableau Public" /></a>
-<a href="https://www.datacamp.com/portfolio/davidnamgung03"><img src="https://img.shields.io/badge/DataCamp-1a1a1a?style=flat-square&logo=datacamp&logoColor=e8e2d4" alt="DataCamp" /></a>
+<a href="https://www.datacamp.com/skill-verification/DL0036806719050"><img src="https://img.shields.io/badge/DataCamp-1a1a1a?style=flat-square&logo=datacamp&logoColor=e8e2d4" alt="DataCamp" /></a>
 
 </div>
 
